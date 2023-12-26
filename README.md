@@ -1,2 +1,2 @@
 # DATA_SCIENCE
-data science learning concepts and projects
+Data Science learning concepts and projects
